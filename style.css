@@ -21,10 +21,11 @@ p {
 a {
   color: #008884;
   text-decoration: none;
+  transition: 100ms;
 }
 
 a:hover {
-  text-decoration: underline;
+  color: black;
 }
 
 #avatar {
